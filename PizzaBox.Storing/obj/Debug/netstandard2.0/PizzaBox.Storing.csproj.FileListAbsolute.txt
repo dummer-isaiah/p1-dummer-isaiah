@@ -1,0 +1,3 @@
+/home/dummer-isaiah/revature_projects/p1/PizzaBox.Storing/obj/Debug/netstandard2.0/PizzaBox.Storing.csprojAssemblyReference.cache
+/home/dummer-isaiah/revature_projects/p1/PizzaBox.Storing/obj/Debug/netstandard2.0/PizzaBox.Storing.AssemblyInfoInputs.cache
+/home/dummer-isaiah/revature_projects/p1/PizzaBox.Storing/obj/Debug/netstandard2.0/PizzaBox.Storing.AssemblyInfo.cs
